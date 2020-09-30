@@ -1,6 +1,6 @@
 ### Hello there, I'm Rovin 👋
 
-I am a fourth year Computer Science and Business Administration major
+I am a fourth year Computer Science and Business Administration major at UCI
 
 ### Languages and Tools:
 
